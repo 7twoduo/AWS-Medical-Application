@@ -1,4 +1,4 @@
-#Secure Multi-Cloud Medical Application Platform
+# Secure Multi-Cloud Medical Application Platform
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=1100&lines=Japanese+Medical+Application+Platform;AWS+Tokyo+%2B+AWS+S%C3%A3o+Paulo+%2B+GCP+Iowa;APPI-Aligned+Japan-Resident+Database+Architecture;Private+RDS+Connectivity+Across+Clouds;Terraform+%2B+HA+VPN+%2B+BGP+%2B+Transit+Gateway+%2B+CloudFront+%2B+WAF" alt="Typing SVG" />
